@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://benedllc.github.io/resources-1n1yl0/sitemap.xml
